@@ -1,0 +1,19 @@
+body {
+    background-image: url(./img/fundo.png);
+}
+
+#menu a {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#menu {
+    background-color: #D2B48C;
+    
+}
+p {
+    text-align: justify;
+    
+   
+}
