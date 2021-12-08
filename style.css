@@ -1,19 +1,49 @@
 body {
-    background-image: url(./img/fundo.png);
+    background: #d2d2c1 url(./img/fundo.png);
+    font: 16px arial, helvetica, sans-serif;
+    
 }
 
-#menu a {
-    text-decoration: none;
-    font-size: 20px;
-    text-transform: uppercase;
+#principal{
+    width: 900px;
 }
 
 #menu {
-    background-color: #D2B48C;
+    background: #c5c5b2;
+    padding: 18px;
     
 }
-p {
-    text-align: justify;
-    
-   
+
+a {
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+     padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanha {
+    border: solid 10px #c3c3ae;
+
+}
+
+h1{
+    text-align: center;
+}
+
+#contato {
+    padding-top: 0.5em;
 }
